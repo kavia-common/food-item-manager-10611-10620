@@ -1,0 +1,7 @@
+/* Import shared design tokens and utilities for build-time resolution */
+@import '../../assets/styles/common.css';
+
+/* Specific refinements for home screen 1:49 */
+/* Keeping definitions minimal as positions and sizes are inline for pixel-perfect mapping. */
+
+/* Component-scoped refinements can be added here if needed */
